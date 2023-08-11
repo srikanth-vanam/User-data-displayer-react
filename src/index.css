@@ -4,6 +4,8 @@
 
 html {
   font-family: sans-serif;
+  /* to make bg color to black */
+  background-color: #1f1f1f;
 }
 
 body {
