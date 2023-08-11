@@ -1,0 +1,15 @@
+.button {
+  padding: 0.4rem 1rem;
+  border: 1px solid #4f005f;
+  background: #4f005f;
+  color: aliceblue;
+  cursor: pointer;
+}
+
+.button:active {
+  background: #741188;
+  border-color: #741188;
+}
+.button:focus {
+  outline: none;
+}
