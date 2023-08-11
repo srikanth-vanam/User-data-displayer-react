@@ -1,0 +1,2 @@
+# Set CRLF line endings for JavaScript files
+src/App.js text eol=crlf
