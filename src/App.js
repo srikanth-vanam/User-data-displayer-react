@@ -8,11 +8,13 @@ function App() {
       id: "1",
       name: "Rohit",
       age: "23",
+      college: "RGUKT-BASAR",
     },
     {
       id: "2",
       name: "Yadaiah!",
       age: "22",
+      college: "RGUKT-BASAR",
     },
   ]);
   const addUserHandler = (formdata) => {
